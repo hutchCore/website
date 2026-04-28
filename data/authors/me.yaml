@@ -22,13 +22,15 @@ bio: "Hi! 👋  I am pursuing computational neuroscience because I want to under
 
 affiliations:
   - name: "William & Mary"
-    url: "https://ai.meta.com/"
+    url: "https://www.wm.edu/"
   - name: "Jamf"
-    url: "https://ai.meta.com/"
+    url: "https://umich.edu/"
   - name: "University of Michigan"
-    url: "https://ai.meta.com/"
-  - name: "University of Michigan - Center for the Study of Complex Systems"
-    url: "https://ai.meta.com/"
+    url: "https://umich.edu/"
+  - name: "University of Wisconsin Hospital and Clinics"
+    url: "https://www.uwhealth.org/"
+  - name: "University of Wischonsin - Eau Claire"
+    url: "https://www.uwec.edu/"
 links:
   - icon: "at-symbol"
     url: "mailto:meghan.hutchins@gmail.com"
