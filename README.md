@@ -1,4 +1,36 @@
-# [The Academic CV That Gets You Hired](https://github.com/HugoBlox/hugo-theme-academic-cv)
+# Personal Website Info
+
+I'm using the [HugoBlox: Academic CV Theme](https://github.com/HugoBlox/hugo-theme-academic-cv). 
+
+## Quick Clicks
+- [HugoBlox](https://hugoblox.com/deploy/da6bdfbf-1170-4f79-98cc-a17f38ea8bb7)
+- [Ownable](https://ownable.dev/home)
+- [My GitHub repo for this website](https://github.com/hutchCore/website)
+- [Local URL for preview from VS Code](http://localhost:1313/) 
+
+## Local Development
+
+This site uses [Hugo](https://gohugo.io/) with [HugoBlox](https://hugoblox.com/) and Tailwind CSS v4. I had a bit of an issue getting the preview to render from VS Code, here's what I did and how to preview: 
+
+### Prerequisites
+- [Hugo Extended](https://gohugo.io/installation/) v0.128+
+- [Node.js](https://nodejs.org/) v22 (via [nvm](https://github.com/nvm-sh/nvm) recommended)
+- [pnpm](https://pnpm.io/)
+
+### Setup
+
+```bash
+nvm use 22
+pnpm install
+hugo server
+```
+
+**Note:** `pnpm install` includes a `postinstall` script that patches `node_modules/.bin/tailwindcss` to work with Hugo's internal JS runner, which does not support ES modules natively. This is required due to a compatibility issue between Hugo's `css.TailwindCSS` pipe and `@tailwindcss/cli` v4.
+
+---
+
+---
+# Info that came with the template... 
 
 [![Screenshot](.github/preview.webp)](https://hugoblox.com/templates/academic-cv?utm_source=github&utm_medium=readme&utm_content=preview)
 

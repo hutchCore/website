@@ -1,17 +1,15 @@
 # Meghan D. Hutchins
-[City, State] · [Email] · [Phone] · [Website/GitHub] · [LinkedIn] · [Google Scholar: https://scholar.google.com/citations?user=OjKhPn0AAAAJ&hl=en]
+Williamsburg, VA · mhutch@umich.edu · 608.358.8332 · https://hutchcore.github.io/website/
 
 ## Research Interests
 Computational neuroscience with an emphasis on mechanistic modeling of how learning/prediction and circuit dynamics interact to produce durable changes in neural computation, with a focus on threat processing and chronic pain.
 
 ## Education
-**University of Michigan** — M.S., Environmental Informatics (Environmental Informatics Track)
-2008–2010
-Graduate Certificate: Complex Systems
-Activities: Environmental Informatics Track Leader; Founder: Agent-Based Modeling Support Group
+**University of Michigan** — M.S., Environmental Informatics | 2008–2010
+- Graduate Certificate: Complex Systems
+- Activities: Environmental Informatics Track Leader; Founder: Agent-Based Modeling Support Group
 
-**University of Wisconsin–Eau Claire** — B.S., Computer Science
-1997–2002
+**University of Wisconsin–Eau Claire** — B.S., Computer Science | 1997–2002
 
 ## Current Neuroscience Training (in progress)
 **Intro to Neuroscience (Bing Wen Brunton, University of Washington)** — coursework + note-taking (membrane potential foundations: resting potential; Nernst/GHK; ion channels; Ohm’s law)
@@ -22,10 +20,10 @@ Modeling: agent-based modeling (ABM), computational modeling, simulation workflo
 Workflow & reproducibility: Git
 Data & systems: relational databases, data extraction/processing, automated report generation
 
-## Academic/Research-Facing Experience
+## Academic Research
 **University of Michigan — Computational Model Software Engineer**
 Oct 2009 – May 2012 · Hybrid · Ann Arbor, MI
-- Primary Java developer for three academic projects, translating research concepts into functional computational models
+- Created agent-based models for three academic projects, translating research concepts into functional computational models
 - Integrated XML and shell scripts; generated structured simulation outputs for analysis
 - Developed, tested, and documented computational models; ran simulations and provided data for research
 - Contributed to manuscripts and conference presentations
@@ -82,3 +80,7 @@ Selected publications (from Google Scholar screenshot; verify full citations and
 
 ## Metrics (optional)
 Google Scholar: Cited by 198; h-index 6; i10-index 5
+
+## Community and Outreach Activities
+WPAD
+Toastmasters
