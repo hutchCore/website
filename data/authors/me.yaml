@@ -11,28 +11,28 @@ name:
 postnominals:
   - " "
   - " "
-status:
-  icon: "🦄"
+#status:
+#  icon: "🦄"
 role: "Aspiring Computational Neuroscientist"
 bio: "Hello! My background spans complex systems modeling, computational research, and software engineering. I'm currently transitioning into computational neuroscience, where I'm particularly interested in how early experiences and internal states produce lasting changes in neural function, chronic pain, and behavior.\n"
 
-affiliations:
-  - name: "William & Mary"
-    url: "https://www.wm.edu/"
-  - name: "Jamf"
-    url: "https://umich.edu/"
-  - name: "University of Michigan"
-    url: "https://umich.edu/"
-  - name: "University of Wisconsin Hospital and Clinics"
-    url: "https://www.uwhealth.org/"
-  - name: "University of Wischonsin - Eau Claire"
-    url: "https://www.uwec.edu/"
+#affiliations:
+#  - name: "William & Mary"
+#    url: "https://www.wm.edu/"
+#  - name: "Jamf"
+#    url: "https://umich.edu/"
+#  - name: "University of Michigan"
+#    url: "https://umich.edu/"
+#  - name: "University of Wisconsin Hospital and Clinics"
+#    url: "https://www.uwhealth.org/"
+#  - name: "University of Wischonsin - Eau Claire"
+#    url: "https://www.uwec.edu/"
 links:
   - icon: "at-symbol"
-    url: "mailto:meghan.hutchins@gmail.com"
+    url: "mailto:mhutch@umich.edu"
     label: "E-mail Me"
-  - icon: "brands/bluesky"
-    url: "https://bsky.app/profile/hutchcore.bsky.social"
+#  - icon: "brands/bluesky"
+#    url: "https://bsky.app/profile/hutchcore.bsky.social"
   - icon: "brands/github"
     url: "https://github.com/hutchCore"
   - icon: "brands/linkedin"
@@ -41,10 +41,10 @@ links:
     url: "https://scholar.google.com/citations?user=OjKhPn0AAAAJ&hl=en"
   - icon: "academicons/orcid"
     url: "https://orcid.org/my-orcid?orcid=0009-0007-1430-3028"
-interests:
-  - "Neuroscience"
-  - "Agent-Based Modeling"
-  - "Bagpipes"
+#interests:
+#  - "Neuroscience"
+#  - "Agent-Based Modeling"
+#  - "Bagpipes"
 education:
   - degree: "MS Environmental Informatics"
     institution: "University of Michigan"
