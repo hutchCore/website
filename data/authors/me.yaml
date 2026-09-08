@@ -45,67 +45,67 @@ links:
 #  - "Neuroscience"
 #  - "Agent-Based Modeling"
 #  - "Bagpipes"
-education:
-  - degree: "MS Environmental Informatics"
-    institution: "University of Michigan"
-    start: "2008"
-    end: "2010"
-    summary: "Thesis on Neighborhood Effects on Land Management: 
-          
-              How individual preferences, social interactions and policies 
-              
-              have a significant effect on the biomass trajectory at the subdivision level.\n"
-    button:
-      text: "Download dissertation"
-      url: "/thesis.pdf"
-      icon: "hero/arrow-down-tray"
-  - degree: "BS Computer Science"
-    institution: "University of Wisconsin - Eau Claire"
-    start: "1997"
-    end: "2002"
-experience:
-  - role: "Programmer / Systems Analyst"
-    org: "William & Mary"
-    start: "August 2025"
-    summary: "University registrar system implementations, process evaluation, and internal reporting and data integrity.\n"
-    button:
-      text: "View portfolio"
-      url: "/"
-      icon: "hero/arrow-down-tray"
-  - role: "Senior Software Engineering Manager"
-    org: "Jamf"
-    start: "2011"
-    end: "2025"
-    summary: "Led software engineering teams across multiple products.\n"
-skills:
-  - name: "Technical Skills"
-    items:
-      - label: "Python"
-        level: 5
-      - label: "Java"
-        level: 5
-      - label: "SQL"
-        level: 5
-      - label: "Cloud Computing"
-        level: 4
-  - name: "Research & Communication"
-    items:
-      - label: "Academic Writing"
-        level: 5
-      - label: "Conference Presentations"
-        level: 4
-      - label: "Grant Proposals"
-        level: 4
-languages:
-  - name: "English"
-    level: 5
-    label: "Native"
-  - name: "Spanish"
-    level: 2
-    label: "Learning"
-awards:
-  - title: "Best Person Award"
-    awarder: "NeurIPS"
-    date: "2022-12-01"
-    summary: "Awarded for groundbreaking work on bagpipe maintanance."
-    icon: "hero/trophy"
+#education:
+#  - degree: "MS Environmental Informatics"
+#    institution: "University of Michigan"
+#    start: "2008"
+#    end: "2010"
+#    summary: "Thesis on Neighborhood Effects on Land Management: 
+#          
+#              How individual preferences, social interactions and policies 
+#              
+#              have a significant effect on the biomass trajectory at the subdivision level.\n"
+#    button:
+#      text: "Download dissertation"
+#      url: "/thesis.pdf"
+#      icon: "hero/arrow-down-tray"
+#  - degree: "BS Computer Science"
+#    institution: "University of Wisconsin - Eau Claire"
+#    start: "1997"
+#    end: "2002"
+#experience:
+#  - role: "Programmer / Systems Analyst"
+#    org: "William & Mary"
+#    start: "August 2025"
+#    summary: "University registrar system implementations, process evaluation, and internal reporting and data integrity.\n"
+#    button:
+#      text: "View portfolio"
+#      url: "/"
+#      icon: "hero/arrow-down-tray"
+#  - role: "Senior Software Engineering Manager"
+#    org: "Jamf"
+#    start: "2011"
+#    end: "2025"
+#    summary: "Led software engineering teams across multiple products.\n"
+#skills:
+#  - name: "Technical Skills"
+#    items:
+#      - label: "Python"
+#        level: 5
+#      - label: "Java"
+#        level: 5
+#      - label: "SQL"
+#        level: 5
+#      - label: "Cloud Computing"
+#        level: 4
+#  - name: "Research & Communication"
+#    items:
+#      - label: "Academic Writing"
+#        level: 5
+#      - label: "Conference Presentations"
+#        level: 4
+#      - label: "Grant Proposals"
+#        level: 4
+#languages:
+#  - name: "English"
+#    level: 5
+#    label: "Native"
+#  - name: "Spanish"
+#    level: 2
+#    label: "Learning"
+#awards:
+#  - title: "Best Person Award"
+#    awarder: "NeurIPS"
+#    date: "2022-12-01"
+#    summary: "Awarded for groundbreaking work on bagpipe maintanance."
+#    icon: "hero/trophy"
