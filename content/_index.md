@@ -16,7 +16,7 @@ sections:
         text: Download CV
         url: uploads/2026_Hutchins_CV.pdf
       headings:
-        about: "."
+        #about: "Summary"
         education: ''
         interests: ''
     design:
