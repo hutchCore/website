@@ -27,9 +27,9 @@ bio: "Seeking to understand the brain as a complex adaptive system, and how neur
 #  - name: "University of Wischonsin - Eau Claire"
 #    url: "https://www.uwec.edu/"
 links:
-  - icon: "at-symbol"
-    url: "mailto:mhutch@umich.edu"
-    label: "E-mail Me"
+#  - icon: "at-symbol"
+#    url: "mailto:mhutch@umich.edu"
+#    label: "E-mail Me"
 #  - icon: "brands/bluesky"
 #    url: "https://bsky.app/profile/hutchcore.bsky.social"
   - icon: "brands/github"
