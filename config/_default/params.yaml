@@ -5,8 +5,8 @@ hugoblox:
   identity:
     name: Meghan Hutchins
     type: person
-    tagline: Neuroscience Researcher
-    description: Meghan Hutchins specializes in agent-based modeling and bagpiping.
+    tagline: ""
+    description: ""
   theme:
     mode: system
     pack: retro
